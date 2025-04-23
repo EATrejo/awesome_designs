@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "title": "the guess jeans",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 309.99,
+    "image": "./assets/images/chico3-jeans.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 2,
+    "title": "vikini girl",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 449.99,
+    "image": "./assets/images/nina-vikini-floreado.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 3,
+    "title": "vikini vintage",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 175.5,
+    "image": "./assets/images/vikini-vintage.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 4,
+    "title": "traje pachuco",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 799.99,
+    "image": "./assets/images/reyPachuco.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 5,
+    "title": "chamarra de cuero",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 29.99,
+    "image": "./assets/images/jacket-leather-boy.png",
+    "isNew": false,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 6,
+    "title": "traje pachuco amarillo",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 179.99,
+    "image": "./assets/images/mask-prueba.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 7,
+    "title": "converse chica",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 79.99,
+    "image": "./assets/images/converse-girl3.png",
+    "isNew": false,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 8,
+    "title": "chica vikini nike",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 939.99,
+    "image": "./assets/images/vikini-completo-nike-prueba.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 9,
+    "title": "jacket leather",
+    "trendTitle": "best trending hoodie",
+    "description": "This product is one of our best selling and popular prodcut; Because of its elegance and the beauty of its design, we advise you to buy it quickly before it runs out of stock.",
+    "price": 145.0,
+    "image": "./assets/images/jacket-leather.png",
+    "isNew": false,
+    "isTrending": true,
+    "category": "men"
+  },
+  {
+    "id": 10,
+    "title": "jacket leather vintage",
+    "trendTitle": "most popular outfit",
+    "description": "We present to you our most popular product, as it has received many requests recently; Because of its quality and workmanship, we advise you to quickly purchase the product before the stock runs out.",
+    "price": 839.99,
+    "image": "./assets/images/jacket-leather-vintage.png",
+    "isNew": false,
+    "isTrending": true,
+    "category": "men"
+  },
+  {
+    "id": 11,
+    "title": "girl shorts",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 1199.99,
+    "image": "./assets/images/girl-shorts.png",
+    "isNew": false,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 12,
+    "title": "chica salvavidas",
+    "trendTitle": "unique awesome jacket",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 499.99,
+    "image": "./assets/images/sitted.girl.png",
+    "image2": "./assets/images/lifeguard-girl-blue2.png",
+    "isNew": true,
+    "isTrending": true,
+    "category": "women"
+  },
+  {
+    "id": 13,
+    "title": "chica salvavidas california",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 1499.99,
+    "image": "./assets/images/lifeguard-girl-red.png",
+    "image2": "./assets/images/lifeguard-girl-red2.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 14,
+    "title": "chica vikini nike",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 900.0,
+    "image": "./assets/images/girl-vikini-nike-front.png",
+    "image2": "./assets/images/girl-vikini-nike-back.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  }
+]
