@@ -5,7 +5,7 @@
     "trendTitle": "Lorem ipsum dolor",
     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
     "price": 309.99,
-    "image": "assets/images/chico3-jeans.png",
+    "image": "./assets/images/chico3-jeans.png",
     "isNew": true,
     "isTrending": false,
     "category": "men"
@@ -16,7 +16,7 @@
     "trendTitle": "Lorem ipsum dolor",
     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
     "price": 449.99,
-    "image": "assets/images/nina-vikini-floreado.png",
+    "image": "./assets/images/nina-vikini-floreado.png",
     "isNew": true,
     "isTrending": false,
     "category": "women"
@@ -138,8 +138,8 @@
     "trendTitle": "Lorem ipsum dolor",
     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
     "price": 1499.99,
-    "image": "assets/images/lifeguard-girl-red.png",
-    "image2": "assets/images/lifeguard-girl-red2.png",
+    "image": "./assets/images/lifeguard-girl-red.png",
+    "image2": "./assets/images/lifeguard-girl-red2.png",
     "isNew": true,
     "isTrending": false,
     "category": "women"
@@ -150,8 +150,8 @@
     "trendTitle": "Lorem ipsum dolor",
     "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
     "price": 900.0,
-    "image": "assets/images/girl-vikini-nike-front.png",
-    "image2": "assets/images/girl-vikini-nike-back.png",
+    "image": "./assets/images/girl-vikini-nike-front.png",
+    "image2": "./assets/images/girl-vikini-nike-back.png",
     "isNew": true,
     "isTrending": false,
     "category": "women"
